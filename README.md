@@ -1,5 +1,11 @@
 #bellabeat case study
 
+
+
+
+![image](https://user-images.githubusercontent.com/74077425/152165184-d5eccc98-3be3-4a1c-b35c-e2292f246060.png)
+
+
 Introduction:
 
 Bellabeat a high-tech manufacturer of health-focused products for women. 
