@@ -38,6 +38,7 @@ Questions to solve the problem:
 1. What are some trends in smart device usage?
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
+
 Goals/metrics	Gain insight into how consumers use non-Bellabeat smart devices.
 
 Are datasets available?	Yes.
