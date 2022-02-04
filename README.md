@@ -45,11 +45,11 @@ Questions to solve the problem:
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat marketing strategy?
 
-Goals/metrics	Gain insight into how consumers use non-Bellabeat smart devices.
+Goals/metrics:	Gain insight into how consumers use non-Bellabeat smart devices.
 
 Are datasets available?	Yes.
 
-Dataset list	The dataset can be downloaded from the link given in the below section.
+Dataset list:	The dataset can be downloaded from the link given in the below section.
 
 Websites to scrape the data needed:	https://www.kaggle.com/arashnic/fitbit.
 
